@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": true,
+        "resolveJsonModule": true,
+        "lib": ["ESNext", "DOM"]
+    },
+
+    "include": [
+        "src/**/*"
+    ]
+}

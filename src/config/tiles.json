@@ -1,0 +1,5 @@
+{
+    "wall": "/images/tiles/wall.png",
+    "snake": "/images/tiles/snake.png",
+    "floor": "/images/tiles/default.png"
+}
